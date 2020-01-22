@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "379340108541",
+    "firebase_url": "https://testcall-a207b.firebaseio.com",
+    "project_id": "testcall-a207b",
+    "storage_bucket": "testcall-a207b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379340108541:android:5cee2de98e07635aff4494",
+        "android_client_info": {
+          "package_name": "com.example.test_call_cloud_function"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379340108541-5jdg7smm322fuu9d8vqaknoe9kapnqkk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqAcv1TJr50UvrDqzP3Tblj5EZpO20O2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379340108541-5jdg7smm322fuu9d8vqaknoe9kapnqkk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
